@@ -15,4 +15,7 @@ Pour ouvrir le dossier du repos dans l'éditeur
 -> code .
 
 Pour ensuite uplaod le tout sur le githu 
--> git add "Le nom du fichier and l'autre fichier etc.."
+-> git add "le nom du/des fichier(s)"
+-> git commit -m "Le nom du fichier and l'autre fichier etc.."
+-> git status (pour verifier)
+-> git log pour verifier les logs
