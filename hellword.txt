@@ -7,3 +7,12 @@
 
 Ce fichier texte me sert de bloc note pour les commandes comme je commence tout juste la formation odin 
 
+Pour acceder au repos. git hub
+-> cd repos
+-> cd le_nom_du_repos
+
+Pour ouvrir le dossier du repos dans l'éditeur 
+-> code .
+
+Pour ensuite uplaod le tout sur le githu 
+-> git add "Le nom du fichier and l'autre fichier etc.."
