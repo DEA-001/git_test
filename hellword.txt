@@ -19,3 +19,4 @@ Pour ensuite uplaod le tout sur le githu
 -> git commit -m "Le nom du fichier and l'autre fichier etc.."
 -> git status (pour verifier)
 -> git log pour verifier les logs
+-> git push origin main
