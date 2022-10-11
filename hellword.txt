@@ -4,3 +4,6 @@
     <body>
     </body>
 </html>
+
+Ce fichier texte me sert de bloc note pour les commandes comme je commence tout juste la formation odin 
+
